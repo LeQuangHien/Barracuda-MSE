@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_SDwLYJLXEeqV09hpQz7Ynw" name="Barracuda-RT">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_SERv0JLXEeqV09hpQz7Ynw" name="Interaction1"/>
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_SE73JJLXEeqV09hpQz7Ynw" name="StateMachine1">
+    <region xmi:type="uml:Region" xmi:id="_SE73JZLXEeqV09hpQz7Ynw" name="Region1">
+      <subvertex xmi:type="uml:State" xmi:id="_VTcagJLXEeqV09hpQz7Ynw" name="State1"/>
+    </region>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_SFFoKpLXEeqV09hpQz7Ynw" name="Interaction2"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_SFTDi5LXEeqV09hpQz7Ynw" name="Activity1"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_SFcNhpLXEeqV09hpQz7Ynw" name="Activity2"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_ZrHlYJLXEeqV09hpQz7Ynw" name="Cognitive Operator"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_Qtl0QJLYEeqV09hpQz7Ynw" name="Reflective Operator"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_bRsFIJLYEeqV09hpQz7Ynw" name="Controller"/>
+</uml:Model>
